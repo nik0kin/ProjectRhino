@@ -1,0 +1,1 @@
+appletviewer -Jal_main org.newdawn.slick.AppletGameContainer -Jgame project_rhino.Rhino -Jal_jars "Project_Rhino.jar, slick.jar, lwjgl_applet.jar.pack.lzma, lwjgl.jar.pack.lzma, jinput.jar.pack.lzma, lwjgl_util.jar.pack.lzma, res.jar.lzma" -Jal_linux linux_natives.jar.lzma -Jal_logo appletlogo.png -Jal_progressbar appletprogress.gif
